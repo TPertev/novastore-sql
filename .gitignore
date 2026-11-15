@@ -1,0 +1,6 @@
+# SQL Server yedek dosyaları depoya eklenmez
+*.bak
+*.trn
+
+# Office geçici/kilit dosyaları
+~$*
